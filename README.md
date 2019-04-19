@@ -2,14 +2,14 @@
 This was a Project bulti for the Nano degree offered by Udacity
 This program is used to predict daily bike renting ridership.
 
-#Requirments:
+# Requirments:
 This code is written in Python and it needs some packages to run:
 1. **Numpy**
 2. **Matplotlib**
 3. **Pandas**
 4. **unittest**
 5. **sys**
-#Steps:
+# Steps:
 1. go the Neural_Network_model.py
 2. scroll down to the bottom and set your own parameters and see how you can improve it further
 ``` #########################################################
